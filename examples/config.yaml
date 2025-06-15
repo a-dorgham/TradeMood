@@ -1,0 +1,11 @@
+data_sources:
+  yahoo_finance:
+    symbols: ["GC=F"]
+  x_api:
+    api_key: "your_x_api_key"
+  news_api:
+    api_key: "your_news_api_key"
+sentiment:
+  model: "finiteautomata/bertweet-base-sentiment-analysis"
+database:
+  path: "data/sentiment_cache.db"
