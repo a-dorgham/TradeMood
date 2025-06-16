@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-ff69b4)
 
-**TradeMood** is a Python-based, web-accessible dashboard for real-time financial market sentiment analysis and trading decision support. Built with **Streamlit**, it integrates sentiment analysis using a pre-trained RoBERTa model (`finiteautomata/bertweet-base-sentiment-analysis`), fetches market data and social media content, generates trading signals, and tracks trades for financial instruments like gold futures (`GC=F`).
+**TradeMood** is a Python-based, web-accessible dashboard for real-time financial market sentiment analysis and trading decision support. Built with **Streamlit**, it integrates sentiment analysis using a pre-trained RoBERTa model (`finiteautomata/bertweet-base-sentiment-analysis`), fetches market data and social media content, generates trading signals, and tracks trades for financial instruments like gold futures (`GC=F`). **Still requires fine tuning.**
 
 ---
 
