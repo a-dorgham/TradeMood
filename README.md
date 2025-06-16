@@ -3,6 +3,10 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Streamlit](https://img.shields.io/badge/GUI-Streamlit-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![TensorFlow](https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange?logo=tensorflow)
+![Plotly](https://img.shields.io/badge/Visualization-Plotly-darkorange?logo=plotly)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-ff69b4)
 
 **TradeMood** is a Python-based, web-accessible dashboard for real-time financial market sentiment analysis and trading decision support. Built with **Streamlit**, it integrates sentiment analysis using a pre-trained RoBERTa model (`finiteautomata/bertweet-base-sentiment-analysis`), fetches market data and social media content, generates trading signals, and tracks trades for financial instruments like gold futures (`GC=F`).
 
@@ -125,10 +129,22 @@ pytest trademood/tests/
 
 ## 📸 Screenshots
 
-![Dashboard](docs/screenshots/dashboard.png)
-![Trade History](docs/screenshots/trade_history.png)
-![Sentiment Trends](docs/screenshots/sentiment_trends.png)
-![Signal](docs/screenshots/trading_signal.png)
+<img width="1598" alt="Full Upper Dashboard" src="https://github.com/user-attachments/assets/50697ee6-4f92-4f59-8599-2e0d77d58731" />
+
+---
+<img width="1032" alt="Price Action with Sentiment" src="https://github.com/user-attachments/assets/d0f4548d-0902-4ebc-8fb5-28194c481e4e" />
+
+---
+<img width="958" alt="Sentiment Trend Analysis" src="https://github.com/user-attachments/assets/73f3b50f-f069-426d-a58a-5ec89fa47748" />
+
+---
+
+<img width="1216" alt="Trade History" src="https://github.com/user-attachments/assets/598e49f4-31b7-4b3b-80e4-01409d9e5699" />
+
+---
+
+<img width="1171" alt="Database Tables" src="https://github.com/user-attachments/assets/faa10344-25cb-4e36-8e76-44d5f2ef5f5e" />
+
 
 ---
 
