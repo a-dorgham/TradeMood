@@ -135,9 +135,6 @@ pytest trademood/tests/
 <img width="1032" alt="Price Action with Sentiment" src="https://github.com/user-attachments/assets/d0f4548d-0902-4ebc-8fb5-28194c481e4e" />
 
 ---
-<img width="958" alt="Sentiment Trend Analysis" src="https://github.com/user-attachments/assets/73f3b50f-f069-426d-a58a-5ec89fa47748" />
-
----
 
 <img width="1216" alt="Trade History" src="https://github.com/user-attachments/assets/598e49f4-31b7-4b3b-80e4-01409d9e5699" />
 
