@@ -84,6 +84,14 @@ TradeMood/
 pip install -r requirements.txt
 ```
 
+### ▶️ Installation
+
+From the project root (where `setup.py` is):
+
+```bash
+pip install -e .
+```
+
 ### Run the App
 
 ```bash
